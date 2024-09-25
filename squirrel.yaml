@@ -9,7 +9,7 @@
 # 鼠须管作者写的图形化的皮肤设计器： https://github.com/LEOYoon-Tsaw/Squirrel-Designer
 
 # 要比共享目录的同名文件的 config_version 大才可以生效
-config_version: '2024-09-24'
+config_version: '2024-09-26'
 
 # options: last | default | _custom_
 # last: the last used latin keyboard layout
@@ -26,8 +26,8 @@ show_notifications_when: appropriate
 app_options:
   # com.apple.Spotlight:
   #   ascii_mode: true    # 开启默认英文
-  # com.microsoft.VSCode:
-  #   ascii_mode: false   # 关闭默认英文
+  com.microsoft.VSCode:
+    ascii_mode: true
 
 style:
   # 选择皮肤，亮色与暗色主题
