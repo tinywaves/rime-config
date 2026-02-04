@@ -62,5 +62,3 @@ gone	gone
 Go程	gocheng
 code	code
 SOHO	soho
-dhzhme@gmail.com	gmail
-tinywaves	tiny
