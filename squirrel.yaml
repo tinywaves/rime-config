@@ -95,7 +95,7 @@ preset_color_schemes:
     mutual_exclusive: false                 # 色不叠加： true | false
     border_height: 0                        # 外边框 高
     border_width: 0                         # 外边框 宽
-    corner_radius: 10                       # 外边框 圆角半径
+    corner_radius: 3                       # 外边框 圆角半径
     hilited_corner_radius: 0                # 选中框 圆角半径
     surrounding_extra_expansion: 0          # 候选项背景相对大小？
     shadow_size: 0                          # 阴影大小
