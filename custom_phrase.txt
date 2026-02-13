@@ -59,7 +59,7 @@ main	main
 Amazon	amazon
 NASA	nasa
 gone	gone
-Go程	gocheng
+郑东晖	zdh
 code	code
 SOHO	soho
 dhzhme@gmail.com	gmail
